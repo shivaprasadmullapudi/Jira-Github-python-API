@@ -15,7 +15,7 @@ def createJira():
 
     #API_TOKEN="" #Enter the API Token of Jira
 
-    auth = HTTPBasicAuth("shivaprasadmullapudi8@gmail.com", API_TOKEN)
+    auth = HTTPBasicAuth("shivaprasadmullapudi8@gmail.com", "API_TOKEN")
 
     headers = {
         "Accept": "application/json",
