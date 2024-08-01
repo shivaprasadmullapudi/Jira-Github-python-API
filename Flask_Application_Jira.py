@@ -13,7 +13,7 @@ def createJira():
 
     url = "https://shivaprasadmullapudi8.atlassian.net/rest/api/3/issue"
 
-    API_TOKEN="" #Enter the API Token of Jira
+    #API_TOKEN="" #Enter the API Token of Jira
 
     auth = HTTPBasicAuth("shivaprasadmullapudi8@gmail.com", API_TOKEN)
 
