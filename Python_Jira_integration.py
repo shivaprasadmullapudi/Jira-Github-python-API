@@ -6,7 +6,7 @@ import json
 
 url = "https://shivaprasadmullapudi8.atlassian.net/rest/api/3/issue"
 
-API_TOkEN="ATATT3xFfGF0uU5pxYFispcvtiHvvU0TacFUowYfBIKJx6P7XqS6VSeBWilbTqOl_yD6kntWwJcio8iyz15s2B7X4fu9wJZr6o5bjE7AQ-jcYcQecHJaInZUH8fPvIBw3xj26iSbdKePzhcsiw5DVYZcg-ws541Npajzq8JO20DMP5aWn3ldkec=914A8451"
+API_TOkEN=""
 
 
 auth = HTTPBasicAuth("shivaprasadmullapudi8@gmail.com", API_TOkEN)
