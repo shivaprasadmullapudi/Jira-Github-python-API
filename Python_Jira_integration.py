@@ -6,10 +6,7 @@ import json
 
 url = "https://shivaprasadmullapudi8.atlassian.net/rest/api/3/issue"
 
-#API_TOkEN=""
-
-
-auth = HTTPBasicAuth("shivaprasadmullapudi8@gmail.com", "API_TOkEN")
+auth = HTTPBasicAuth("shivaprasadmullapudi8@gmail.com",)
 
 headers = {
   "Accept": "application/json",
